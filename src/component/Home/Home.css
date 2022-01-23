@@ -1,0 +1,10 @@
+.home {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding-top: 8px;
+}
+
+.book_first_part {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

@@ -1,0 +1,80 @@
+[
+    {
+      "book":"Murakaba",
+      "writer":"Muhib Khan",
+      "publisher":"Rahnuma Prokashon",
+      "edition":"1st Published, 2018",
+      "country":"Bangladesh",
+      "language":"Bangla",
+      "ISBN":"9789849322009",
+      "pages":"64",
+      "tk":"76",
+      "stock":"21",
+      "img":"https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/7322ec887_173733.jpg"
+    },
+    {
+      "book":"Hason Raja Somogra",
+      "writer":"Samiron Dewan",
+      "publisher":"Mawla Brothers",
+      "edition":"First Published-2014",
+      "country":"Bangladesh",
+      "language":"Bangla",
+      "ISBN":"9789849091837",
+      "pages":"360",
+      "tk":"383",
+      "stock":"1",
+      "img":"https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/rokimg_20150922_80047.gif"
+    },
+    {
+      "book":"Amar Gan",
+      "writer":"Muhib Khan",
+      "publisher":"Rahnuma Prokashon",
+      "edition":"1st Published, 2019",
+      "country":"Bangladesh",
+      "language":"Bangla",
+      "ISBN":"9789849385547",
+      "pages":"128",
+      "tk":"136",
+      "stock":"26",
+      "img":"https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/ade131ec9_203016.jpg"
+    },
+    {
+      "book":"Murshida Gan",
+      "writer":"Josim Uddin",
+      "publisher":"Polash Prokashon",
+      "edition":"3rd Print, 2012",
+      "country":"Bangladesh",
+      "language":"Bangla",
+      "ISBN":"98446003512",
+      "pages":"233",
+      "tk":"319",
+      "stock":"11",
+      "img":"https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/4b37c8081_30183.jpg"
+    },
+    {
+      "book":"Polli Gitir Sorolipi",
+      "writer":"Songkor Roy",
+      "publisher":"Onjoli Prokashon",
+      "edition":"2nd Printed, 2006",
+      "country":"Bangladesh",
+      "language":"Bangla",
+      "ISBN":"9848513000",
+      "pages":"175",
+      "tk":"154",
+      "stock":"3",
+      "img":"https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/8582c80c2_185311.jpg"
+    },
+    {
+      "book":"Lok Songiter Sorolipi",
+      "writer":"Songkor Roy",
+      "publisher":"Onjoli Prokashon",
+      "edition":"2nd Printed, 2006",
+      "country":"Bangladesh",
+      "language":"Bangla",
+      "ISBN":"9848513000",
+      "pages":"165",
+      "tk":"160",
+      "stock":"7",
+      "img":"https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/60461efa3_185310.jpg"
+    }
+  ]
